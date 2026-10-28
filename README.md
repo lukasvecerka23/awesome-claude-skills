@@ -192,6 +192,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Productivity & Organization
 
+- [Blueprint Deck](https://github.com/lukasvecerka23/blueprint-deck-kit) - Turns docs or code into an interactive diagram deck: one offline HTML file with a pan-and-zoom map, guided tour, personas and a built-in editor. *By [@lukasvecerka23](https://github.com/lukasvecerka23)*
 - [File Organizer](./file-organizer/) - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
 - [Invoice Organizer](./invoice-organizer/) - Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
 - [kaizen](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen/skills/kaizen) - Applies continuous improvement methodology with multiple analytical approaches, based on Japanese Kaizen philosophy and Lean methodology.
